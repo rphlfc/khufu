@@ -20,7 +20,7 @@ use your address as their referral address so you can earn your 10% fee from the
 Any resemblance with the reality is mere coincidence. 🙃
 
 ## Deployment
-Khufu is deployed on the Kovan Test Network: [https://rphlfc.githubio.com/khufu](https://rphlfc.githubio.com/khufu)
+Khufu is deployed on the Kovan Test Network: [https://rphlfc.github.io/khufu](https://rphlfc.githubio.com/khufu)
 
 ## Get ETH
 Since we are using a test network you can get ETH from a faucet: [https://faucets.chain.link/kovan](https://faucets.chain.link/kovan)
