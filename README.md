@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Khufu - A Decentralized Pyramid Scheme
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Attention
+**A pyramid is a fraudulent scheme and should be not be considered a valid investment strategy.
+This project was created for studying purposes only.**
 
-## Available Scripts
+## How it works?
+In order to join the scheme you have to pay 0.01 ETH. Once in the scheme, 10% of your admission 
+payment (0.0001 ETH) will be fowarded to your referral address. By joining the scheme you automatically earn
+1 GIZA. Think of the GIZA token as the merchandise that you get once you join a pyramid scheme.
 
-In the project directory, you can run:
+In order to make real money you'd have to sell your GIZA token for more than you paid for it (0.0001 ETH).
+But guess what, selling a GIZA token can be very difficult. You don't know where to sell or whom to sell it
+to. Soon you'll realize that getting more people to join the scheme is a lot more profitable than selling the
+merchandise (your GIZA tokens).
 
-### `npm start`
+And there you have it, a pyramid scheme. You are going to need to talk people into joining the scheme and 
+use your address as their referral address so you can earn your 10% fee from their admission payments.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Any resemblance with the reality is mere coincidence. 🙃
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Deployment
+Khufu is deployed on the Kovan Test Network: [https://rphlfc.githubio.com/khufu](https://rphlfc.githubio.com/khufu)
 
-### `npm test`
+## Get ETH
+Since we are using a test network you can get ETH from a faucet: [https://faucets.chain.link/kovan](https://faucets.chain.link/kovan)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Donate
+ * ETH wallet: `0x02691be4687216Bc015E515015019519333bc7c5`
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Meta
+- Github: [https://github.com/rphlfc](https://github.com/rphlfc)
+- Instagram: [https://www.instagram.com/rphlfc.dev](https://www.instagram.com/rphlfc.dev)
+- LinkedIn: [http://www.linkedin.com/in/rphlfc](http://www.linkedin.com/in/rphlfc)
+- Twitter: [https://twitter.com/rphlfc](https://twitter.com/rphlfc)
+- Website: [https://rphlfc.github.io](https://rphlfc.github.io)
+- Youtube: [https://www.youtube.com/c/raphaelcerqueira](https://www.youtube.com/c/raphaelcerqueira)
