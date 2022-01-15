@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/khufu/static/css/main.c63a64cc.chunk.css",
+    "main.js": "/khufu/static/js/main.2622b6d8.chunk.js",
+    "main.js.map": "/khufu/static/js/main.2622b6d8.chunk.js.map",
+    "runtime-main.js": "/khufu/static/js/runtime-main.ec1c2682.js",
+    "runtime-main.js.map": "/khufu/static/js/runtime-main.ec1c2682.js.map",
+    "static/css/2.68a81a89.chunk.css": "/khufu/static/css/2.68a81a89.chunk.css",
+    "static/js/2.56188b8c.chunk.js": "/khufu/static/js/2.56188b8c.chunk.js",
+    "static/js/2.56188b8c.chunk.js.map": "/khufu/static/js/2.56188b8c.chunk.js.map",
+    "static/js/3.d15e4193.chunk.js": "/khufu/static/js/3.d15e4193.chunk.js",
+    "static/js/3.d15e4193.chunk.js.map": "/khufu/static/js/3.d15e4193.chunk.js.map",
+    "index.html": "/khufu/index.html",
+    "precache-manifest.966b4dd998d9e2ffe785b5a44bf09db7.js": "/khufu/precache-manifest.966b4dd998d9e2ffe785b5a44bf09db7.js",
+    "service-worker.js": "/khufu/service-worker.js",
+    "static/css/2.68a81a89.chunk.css.map": "/khufu/static/css/2.68a81a89.chunk.css.map",
+    "static/css/main.c63a64cc.chunk.css.map": "/khufu/static/css/main.c63a64cc.chunk.css.map",
+    "static/js/2.56188b8c.chunk.js.LICENSE.txt": "/khufu/static/js/2.56188b8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec1c2682.js",
+    "static/css/2.68a81a89.chunk.css",
+    "static/js/2.56188b8c.chunk.js",
+    "static/css/main.c63a64cc.chunk.css",
+    "static/js/main.2622b6d8.chunk.js"
+  ]
+}
